@@ -1,5 +1,5 @@
 {
-  "name": "pinst",
+  "name": "@ozum/pinst",
   "version": "2.1.4",
   "description": "Enable or disable npm postinstall hook",
   "main": "index.js",
